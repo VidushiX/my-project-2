@@ -11,3 +11,5 @@ while (n<=4):
 print("total of even numbers is ",even)
 print("random something "+str(odd)+"   is the total of odd numbers")
 print("%d is the total of %s numbers and %d"  %(even,"even",odd))
+
+#git test
