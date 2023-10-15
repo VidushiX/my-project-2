@@ -14,5 +14,6 @@ while(pno>0):
 
 
 print("Total is",total)
+print("Thank You!")
 
 #git test
